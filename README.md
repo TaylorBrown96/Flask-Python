@@ -1,5 +1,5 @@
 # Flask-Python
-This repo is for a lesson plan involving databases and a flask website deployment that can be deployed on pythonanywhere.com.
+This repo is for a lesson plan involving databases and a flask website deployment that can be deployed on (pythonanywhere.com).
 Its purpose is to show others how to link your front-end website to a back-end database.
 
 ## Requirements for this lesson plan:
