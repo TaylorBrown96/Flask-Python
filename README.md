@@ -5,7 +5,7 @@ It's purpose is to show others how to link your front end website to a back-end 
 ## Requirements for this lesson plan:
 - Python
 - SQLite
-- Run the command <B>pip install -r requirements.txt<B>
+- Run the command **pip install -r requirements.txt**
 
 >[!NOTE]
 > You will not need to know any HTML or CSS for these lessons, all related documents for each lesson will be provided for you. Furthermore, if there are any important variable names they will be listed at the top of your app.py file.
