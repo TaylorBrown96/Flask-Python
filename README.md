@@ -6,4 +6,4 @@ It's purpose is to show others how to link your front end website to a back-end 
 Requirements for this lesson plan:
 - Python
 - SQLite
-- run the command <B>pip install -r requirements.txt<\B>
+- run the command <B>pip install -r requirements.txt<B>
