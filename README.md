@@ -3,8 +3,8 @@ This repo is for a lesson plan involving databases and a flask website deploymen
 Its main purpose is to show others how to link your front-end website to a back-end database.
 
 ## Requirements for this lesson plan:
-- Python
-- SQLite
+- [Python](https://www.python.org/downloads/)
+- [SQLite PortableApp](https://sqlitebrowser.org/dl/)
 - Run the command **pip install -r requirements.txt**
 
 >[!NOTE]
