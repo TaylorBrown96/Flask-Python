@@ -10,7 +10,7 @@ Its purpose is to show others how to link your front-end website to a back-end d
 >[!NOTE]
 > You will not need to know any HTML or CSS for these lessons, all related documents for each lesson will be provided to you. Furthermore, if there are any important variable names, they will be listed in the included lesson text file.
 
-<br><br>
+<br>
 
 ### Lesson 1: User login and session cookies
 ```
