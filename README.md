@@ -14,24 +14,24 @@ It's purpose is to show others how to link your front end website to a back-end 
 
 ### Lesson 1: User login and session cookies
 ```
-- Flask
-- Imported Modules
-- Flask app.route
-- Retriving text from an html form
-- Flask sessions (Perm & Temp)
+Flask
+Imported Modules
+Flask app.route
+Retriving text from an html form
+Flask sessions (Perm & Temp)
 ```
 ### Lesson 2: Creating a connection to the database and dynamic loading
 ```
-- Flask POST & GET methods
-- DB Connection configuration
-- DB INSERT statements
-- DB SELECT statements
-- Dynamic loading with Jinja
+Flask POST & GET methods
+DB Connection configuration
+DB INSERT statements
+DB SELECT statements
+Dynamic loading with Jinja
 ```
 ### Lesson 3: Security and user editing rights
 ```
-- DB DELETE statements
-- Proper refactoring methods with flask
-- Obfuscation with dotenv module
-- Salting and Hashing passwords with bcrypt module
+DB DELETE statements
+Proper refactoring methods with flask
+Obfuscation with dotenv module
+Salting and Hashing passwords with bcrypt module
 ```
