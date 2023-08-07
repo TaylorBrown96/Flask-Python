@@ -57,13 +57,13 @@ def createSession(username, password):
             if password == passwords[users.index(username)]:
                 session['username'] = username
                 session['accountType'] = accountType[users.index(username)]
-                return True
+                return 
             else:
                 print('fail password')
-                return False
+                return 
         else:
             print('fail username')
-            return False       
+            return        
 
 
 if __name__ == "__main__":
