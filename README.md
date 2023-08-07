@@ -24,8 +24,7 @@ Flask POST & GET methods.
 ```
 Flask POST & GET methods (Continued).
 Database Connection configuration.
-Database statements.
-Database statements.
+Database interaction within Flask app.
 Dynamic loading with Jinja.
 ```
 ### Lesson 3: Security and user editing rights
