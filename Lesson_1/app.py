@@ -24,7 +24,7 @@ def userLogin():
         return render_template("login.html")
     
 
-@app.route("/signout")
+@app.route("/Signout")
 def signout():
     if "username" in session:
         session.pop("USID", None)
