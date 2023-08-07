@@ -1,7 +1,7 @@
 # Add imports here
 
 app = Flask(__name__)
-app.secret_key = "" #Add a secret key
+#Add a secret key
 
 @app.route("/")
 def index():
@@ -18,7 +18,7 @@ def userLogin():
     pass
     
 
-@app.route("/signout")
+@app.route("/Signout")
 def signout():
     pass
     
