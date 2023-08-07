@@ -18,10 +18,11 @@ Imported Modules.
 Flask app.route.
 Retrieving text from an html form.
 Flask sessions (Permanent & Temporary).
+Flask POST & GET methods.
 ```
 ### Lesson 2: Creating a connection to the database and dynamic loading
 ```
-Flask POST & GET methods.
+Flask POST & GET methods (Continued).
 Database Connection configuration.
 Database statements.
 Database statements.
