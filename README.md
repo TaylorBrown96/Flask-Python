@@ -8,7 +8,7 @@ Its main purpose is to show others how to link your front-end website to a back-
 - Run the command **pip install -r requirements.txt**
 
 >[!NOTE]
-> You will not need to know any HTML, JavaScript or CSS for these lessons, all related documents for each lesson will be provided to you. Furthermore, if there are any important variable names, they will be listed in the included lesson text file.
+> You will not need to know any HTML, JavaScript or CSS for these lessons, all related documents for each lesson will be provided to you. Furthermore, if there are any important variable names, they will be listed (Most variable names are case sensitive because they link to the front-end).
 
 
 ### Lesson 1: User login and session cookies
