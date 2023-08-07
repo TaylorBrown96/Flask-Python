@@ -1,0 +1,7 @@
+Lesson 1 topics:
+- Flask
+- Imported Modules
+- Flask app.route
+- Retriving text from an html form
+- Flask sessions
+- Flask POST & GET methods
