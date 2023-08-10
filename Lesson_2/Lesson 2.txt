@@ -1,0 +1,6 @@
+Lesson 2 topics:
+- Flask POST & GET methods (Continued).
+- Modal generation.
+- Database Connection configuration.
+- Database interaction within Flask app.
+- Dynamic loading with Jinja
