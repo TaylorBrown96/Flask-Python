@@ -23,16 +23,17 @@ Flask POST & GET methods.
 ### Lesson 2: Creating a connection to the database and dynamic loading
 ```
 Flask POST & GET methods (Continued).
-Modal generation.
 Database Connection configuration.
 Database interaction within Flask app.
 Dynamic loading with Jinja.
 ```
 ### Lesson 3: Security and user editing rights
 ```
+Checking for database conflicts
 Database DELETE statements.
 User post editing.
 Proper refactoring methods with flask.
 Obfuscation with dotenv module.
 Salting and Hashing passwords with bcrypt module.
+Modal generation.
 ```
