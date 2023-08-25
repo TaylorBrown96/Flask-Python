@@ -30,10 +30,10 @@ Dynamic loading with Jinja.
 ### Lesson 3: Security and user editing rights
 ```
 Checking for database conflicts
-Database DELETE & UPDATE statements.
-User post editing.
-Proper refactoring methods with flask.
+Database DELETE statement.
+User post editing with UPDATE statement.
 Obfuscation with dotenv module.
+Password security strength check
 Salting and Hashing passwords with bcrypt module.
 Modal generation.
 ```
