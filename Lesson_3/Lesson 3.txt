@@ -1,0 +1,8 @@
+Lesson 3 topics:
+- Checking for database conflicts
+- Database DELETE statement.
+- User post editing with UPDATE statement.
+- Obfuscation with dotenv module.
+- Password security strength check
+- Salting and Hashing passwords with bcrypt module.
+- Modal generation.
