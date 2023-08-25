@@ -1,0 +1,40 @@
+Lesson 2 topics:
+- Flask POST & GET methods (Continued).
+- Markupsafe usage and passing to front end
+- Database Connection configuration.
+- Database interaction within Flask app.
+- Dynamic loading with Jinja
+
+
+Code for user populatePosts method:
+<div class="col mb-4">
+    <div class="d-flex flex-column align-items-center align-items-sm-start" style="background: #27262e;border-radius: 16px;">
+        <div class="d-flex" style="padding: 0px;padding-bottom: 0px;padding-left: 25px;padding-top: 16px;">
+            <img class="rounded-circle flex-shrink-0 me-3 fit-cover" width="50" height="50" src="static/team/"""+ ADD DATA HERE +""" ">
+            <div>
+                <p class="fw-bold text-primary mb-0">"""+ ADD DATA HERE +"""</p>
+                <p class="text-muted mb-0">"""+ ADD DATA HERE +"""</p>
+            </div>
+        </div>
+
+        <p class="bg-dark border rounded border-dark p-4" style="margin-bottom: 0px;">"""+ ADD DATA HERE +"""</p>
+
+        <div style="padding-left: 21px;padding-bottom: 0px;margin-bottom: -23px;">
+            <button href="" class="btn btn-primary" type="button" style="padding-right: 16px;padding-left: 16px;">
+                <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+            </button>
+            <p style="margin-bottom: 16px;transform: translateX(57px) translateY(-34px);">"""+ ADD DATA HERE +""" Likes</p>
+        </div>
+    </div>
+</div>
+
+
+Variable names for signup method:
+- username
+- title
+- password
+
+
+Variable names for addPost method:
+- postText
+Date format for Database - %x %X
