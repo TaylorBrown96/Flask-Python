@@ -1,5 +1,5 @@
 # Flask-Python
-This repo is for a lesson plan involving databases and a flask website deployment that can be deployed on [Pythonanywhere.com](https://www.pythonanywhere.com).
+This repo is for a lesson plan involving a database and a flask website deployment that can be deployed on [Pythonanywhere.com](https://www.pythonanywhere.com).
 Its main purpose is to show others how to link your front-end website to a back-end database using Flask as an intermediary.
 
 ## Requirements for this lesson plan:
@@ -30,7 +30,7 @@ Dynamic loading with Jinja.
 ### Lesson 3: Security and user editing rights
 ```
 Checking for database conflicts
-Database DELETE statements.
+Database DELETE & Update statements.
 User post editing.
 Proper refactoring methods with flask.
 Obfuscation with dotenv module.
