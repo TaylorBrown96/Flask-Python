@@ -53,7 +53,6 @@ def signout():
         return redirect(url_for("userLogin"))
     
 
-# Add username check
 @app.route("/Signup", methods=['POST','GET'])
 def signup():
     if request.method == 'POST':
@@ -157,7 +156,6 @@ def createSession(username, password):
         return False 
       
 
-# Add user check and ending html code
 def populatePosts():
     connection = sqlite3.connect('Website_DB.db')
     postCursor = connection.execute("SELECT * from Posts ORDER BY PID DESC LIMIT 12")
